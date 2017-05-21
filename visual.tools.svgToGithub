@@ -1,0 +1,5 @@
+cd /home/developmentSpace/context/thisEquals/print
+git add -A
+git commit -m "autocommit"
+git push origin master
+touch /home/developmentSpace/context/thisEquals/autoCommit.print
